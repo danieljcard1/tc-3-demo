@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="making_a_sourdough_starter">
+    <title>Making a Sourdough Starter</title>
+    <shortdesc>Follow these steps to create a sourdough starter from scratch.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_w5l_skb_czb">A simple sourdough starter requires about a week and some
+            basic ingredients to make:<ul id="ul_jll_wkb_czb">
+                <li>
+                    <p>all-purpose or whole wheat flour</p>
+                </li>
+                <li>
+                    <p>warm water</p>
+                </li>
+            </ul></prereq>
+        <context>
+            <p>Creating a sourdough starter is the first step in making delicious sourdough bread.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Mix the initial starter.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>In a glass or plastic container, combine 1 cup of all-purpose or whole
+                            wheat flour with 1 cup of lukewarm water.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Stir until it forms a thick, paste-like consistency.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Loosely cover the container to allow air circulation.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Wait one day.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Feed the starter daily for approximately seven days.</cmd>
+                <substeps id="substeps_xdk_hmb_czb">
+                    <substep>
+                        <cmd>Check for small bubbles on the surface of the mixture.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Discard half of the mixture.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Add another ½ cup of flour and ½ cup of lukewarm water.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Stir well and cover the container.</cmd>
+                        <stepresult>By the seventh day, the starter should be active and have a
+                            pleasant, tangy smell with bubbles, which indicates that it's ready to
+                            use in sourdough bread recipes.</stepresult>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

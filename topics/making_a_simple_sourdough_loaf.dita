@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="making_a_simple_sourdough_loaf">
+    <title>Making a simple sourdough loaf</title>
+    <shortdesc>lroeksshgoisdhgo.</shortdesc>
+    <taskbody>
+        <context>context goes here<p/></context>
+        <steps>
+            <step>
+                <cmd>Get the ingredients.</cmd>
+            </step>
+            <step>
+                <cmd>Make the bread.</cmd>
+            </step>
+            <step>
+                <cmd>Eat the bread!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

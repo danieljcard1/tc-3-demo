@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcard/AppData/Local/Programs/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcard/AppData/Local/Programs/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcard/AppData/Local/Programs/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcard/AppData/Local/Programs/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcard/AppData/Local/Programs/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/dcard/Documents/GitHub/tc-3-demo/sourdough.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Sourdough!</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Sourdough!</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="fermentation_process_in_sourdough_bread"><resourceid appid="fermentation_process_in_sourdough_bread" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Fermentation Process in Sourdough Bread</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Understand the role of fermentation in creating sourdough bread's unique flavor and         texture.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="sourdough_starter"><resourceid appid="sourdough_starter" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Sourdough Starter</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Understand the essential component of sourdough bread-making.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="making_a_sourdough_starter"><resourceid appid="making_a_sourdough_starter" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Making a Sourdough Starter</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Follow these steps to create a sourdough starter from scratch.</shortdesc></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="making_a_simple_sourdough_loaf"><resourceid appid="making_a_simple_sourdough_loaf" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Making a simple sourdough loaf</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">lroeksshgoisdhgo.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_5" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="tools_for_sourdough_enthusiasts"><resourceid appid="tools_for_sourdough_enthusiasts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Tools for Sourdough Enthusiasts</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Sourdough bread baking requires specific tools and equipment to ensure a successful         and enjoyable baking experience. </shortdesc></topicmeta></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="fermentation_process_in_sourdough_bread" oid="fermentation_process_in_sourdough_bread" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Fermentation Process in Sourdough Bread</ph></title>
+    <shortdesc class="- topic/shortdesc ">Understand the role of fermentation in creating sourdough bread's unique flavor and
+        texture.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The fermentation process is the secret behind the distinctive qualities of sourdough
+            bread. During fermentation, the wild yeast and lactic acid bacteria in the sourdough
+            starter work together to transform the dough, creating the bread's characteristic air
+            pockets and tangy flavor.</p>
+        <p class="- topic/p ">One of the key outcomes of fermentation is the production of carbon dioxide gas. This gas
+            is trapped within the dough, causing it to rise and creating the bread's signature airy
+            crumb structure.</p>
+        <p class="- topic/p ">During fermentation, the microorganisms in the starter produce organic acids, including
+            lactic acid and acetic acid. These acids contribute to the bread's sour flavor, giving
+            it a unique and delightful tanginess.</p>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="sourdough_starter" oid="sourdough_starter" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Sourdough Starter</ph></title>
+    <shortdesc class="- topic/shortdesc ">Understand the essential component of sourdough bread-making.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">A sourdough starter is a fundamental element in the art of making sourdough bread. It is
+            a mixture of flour and water that serves as the living culture of wild yeast and lactic
+            acid bacteria essential for leavening the dough and imparting the characteristic sour
+            flavor.</p>
+        <p class="- topic/p ">Creating a sourdough starter involves a simple process of mixing flour and water and
+            allowing it to ferment over several days. The natural microorganisms in the environment,
+            such as those on the flour's surface, colonize this mixture, making it a potent
+            leavening agent.</p>
+        <p class="- topic/p ">Regular feeding and maintenance are crucial for a healthy sourdough starter. This
+            involves periodically discarding a portion of the starter and refreshing it with fresh
+            flour and water to keep the microbial community robust and active.</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="making_a_sourdough_starter" oid="making_a_sourdough_starter" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Making a Sourdough Starter</ph></title>
+    <shortdesc class="- topic/shortdesc ">Follow these steps to create a sourdough starter from scratch.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_3_Connect_42_prereq_w5l_skb_czb" nd:nd-id="prereq_w5l_skb_czb">A simple sourdough starter requires about a week and some
+            basic ingredients to make:<ul class="- topic/ul " id="unique_3_Connect_42_ul_jll_wkb_czb" nd:nd-id="ul_jll_wkb_czb">
+                <li class="- topic/li ">
+                    <p class="- topic/p ">all-purpose or whole wheat flour</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">warm water</p>
+                </li>
+            </ul></prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Creating a sourdough starter is the first step in making delicious sourdough bread.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Mix the initial starter.</cmd>
+                <substeps class="- topic/ol task/substeps ">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">In a glass or plastic container, combine 1 cup of all-purpose or whole
+                            wheat flour with 1 cup of lukewarm water.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Stir until it forms a thick, paste-like consistency.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Loosely cover the container to allow air circulation.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Wait one day.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Feed the starter daily for approximately seven days.</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_3_Connect_42_substeps_xdk_hmb_czb" nd:nd-id="substeps_xdk_hmb_czb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Check for small bubbles on the surface of the mixture.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Discard half of the mixture.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Add another ½ cup of flour and ½ cup of lukewarm water.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Stir well and cover the container.</cmd>
+                        <stepresult class="- topic/itemgroup task/stepresult ">By the seventh day, the starter should be active and have a
+                            pleasant, tangy smell with bubbles, which indicates that it's ready to
+                            use in sourdough bread recipes.</stepresult>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="making_a_simple_sourdough_loaf" oid="making_a_simple_sourdough_loaf" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Making a simple sourdough loaf</ph></title>
+    <shortdesc class="- topic/shortdesc ">lroeksshgoisdhgo.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">context goes here<p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Get the ingredients.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Make the bread.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Eat the bread!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="tools_for_sourdough_enthusiasts" oid="tools_for_sourdough_enthusiasts" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Tools for Sourdough Enthusiasts</ph></title>
+    <shortdesc class="- topic/shortdesc ">Sourdough bread baking requires specific tools and equipment to ensure a successful
+        and enjoyable baking experience. </shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <simpletable class="- topic/simpletable " frame="all" id="unique_5_Connect_42_simpletable_kwm_b4b_czb" nd:nd-id="simpletable_kwm_b4b_czb" relcolwidth="1* 1*">
+            <sthead class="- topic/sthead ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">Tool</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">Purpose</stentry>
+            </sthead>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">Proofing Basket</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">A round or oval-shaped basket used for the final rise of the dough to
+                    maintain the shape. </stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3">Dutch Oven</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">A heavy, lidded pot used for baking that traps steam, creating a crispy
+                    crust. </stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4">Digital Kitchen Scale</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4">Ensures accurate measurement of ingredients.</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="5">Bread Lame or Razor Blade</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="5">Used to score the bread's surface before baking, allowing the dough to
+                    expand evenly.</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="6">Dough Scraper or Bench Knife</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="6">A versatile tool for dividing, shaping and handling dough.</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="7">Parchment Paper</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="7">Used to line the Dutch oven, preventing sticking and making it easier to
+                    transfer the dough.</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="8">Cooling Rack</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="8">Prevents crust from becoming soggy while bread cools after
+                    baking.</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="9">Digital Instant-Read Thermometer</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="9">Used to ensure the bread is baked to the right internal
+                    temperature.</stentry>
+            </strow>
+        </simpletable>
+    </refbody>
+</reference></map>

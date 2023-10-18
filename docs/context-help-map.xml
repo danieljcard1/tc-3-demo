@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="fermentation_process_in_sourdough_bread"
+               path="topics/fermentation_process_in_sourdough_bread.html"/>
+   <appContext helpID="sourdough_starter" path="topics/sourdough_starter.html"/>
+   <appContext helpID="making_a_sourdough_starter"
+               path="topics/making_a_sourdough_starter.html"/>
+   <appContext helpID="making_a_simple_sourdough_loaf"
+               path="topics/making_a_simple_sourdough_loaf.html"/>
+   <appContext helpID="tools_for_sourdough_enthusiasts"
+               path="topics/tools_for_sourdough_enthusiasts.html"/>
+</map>

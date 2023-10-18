@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Sourdough!</title>
+    <topicref href="topics/fermentation_process_in_sourdough_bread.dita">
+        <topicref href="topics/sourdough_starter.dita"/>
+        <topicref href="topics/making_a_sourdough_starter.dita"/>
+    </topicref>
+    <topicref href="topics/making_a_simple_sourdough_loaf.dita"/>
+    <topicref href="topics/tools_for_sourdough_enthusiasts.dita"/>
+</map>

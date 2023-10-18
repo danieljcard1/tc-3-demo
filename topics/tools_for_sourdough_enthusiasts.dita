@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="tools_for_sourdough_enthusiasts">
+    <title>Tools for Sourdough Enthusiasts</title>
+    <shortdesc>Sourdough bread baking requires specific tools and equipment to ensure a successful
+        and enjoyable baking experience. </shortdesc>
+    <refbody>
+        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_kwm_b4b_czb">
+            <sthead>
+                <stentry>Tool</stentry>
+                <stentry>Purpose</stentry>
+            </sthead>
+            <strow>
+                <stentry>Proofing Basket</stentry>
+                <stentry>A round or oval-shaped basket used for the final rise of the dough to
+                    maintain the shape. </stentry>
+            </strow>
+            <strow>
+                <stentry>Dutch Oven</stentry>
+                <stentry>A heavy, lidded pot used for baking that traps steam, creating a crispy
+                    crust. </stentry>
+            </strow>
+            <strow>
+                <stentry>Digital Kitchen Scale</stentry>
+                <stentry>Ensures accurate measurement of ingredients.</stentry>
+            </strow>
+            <strow>
+                <stentry>Bread Lame or Razor Blade</stentry>
+                <stentry>Used to score the bread's surface before baking, allowing the dough to
+                    expand evenly.</stentry>
+            </strow>
+            <strow>
+                <stentry>Dough Scraper or Bench Knife</stentry>
+                <stentry>A versatile tool for dividing, shaping and handling dough.</stentry>
+            </strow>
+            <strow>
+                <stentry>Parchment Paper</stentry>
+                <stentry>Used to line the Dutch oven, preventing sticking and making it easier to
+                    transfer the dough.</stentry>
+            </strow>
+            <strow>
+                <stentry>Cooling Rack</stentry>
+                <stentry>Prevents crust from becoming soggy while bread cools after
+                    baking.</stentry>
+            </strow>
+            <strow>
+                <stentry>Digital Instant-Read Thermometer</stentry>
+                <stentry>Used to ensure the bread is baked to the right internal
+                    temperature.</stentry>
+            </strow>
+        </simpletable>
+    </refbody>
+</reference>

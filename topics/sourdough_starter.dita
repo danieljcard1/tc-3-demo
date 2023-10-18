@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="sourdough_starter">
+    <title>Sourdough Starter</title>
+    <shortdesc>Understand the essential component of sourdough bread-making.</shortdesc>
+    <conbody>
+        <p>A sourdough starter is a fundamental element in the art of making sourdough bread. It is
+            a mixture of flour and water that serves as the living culture of wild yeast and lactic
+            acid bacteria essential for leavening the dough and imparting the characteristic sour
+            flavor.</p>
+        <p>Creating a sourdough starter involves a simple process of mixing flour and water and
+            allowing it to ferment over several days. The natural microorganisms in the environment,
+            such as those on the flour's surface, colonize this mixture, making it a potent
+            leavening agent.</p>
+        <p>Regular feeding and maintenance are crucial for a healthy sourdough starter. This
+            involves periodically discarding a portion of the starter and refreshing it with fresh
+            flour and water to keep the microbial community robust and active.</p>
+    </conbody>
+</concept>
